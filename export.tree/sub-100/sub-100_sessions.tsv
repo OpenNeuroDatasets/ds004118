@@ -1,0 +1,8 @@
+session_id	acq_time	ESS_subjectLabID	ESS_sessionNum	ESS_sessionID	caffeine	alcohol	legacy_recordingParameterSet
+ses-01	00140505T000000	3103	122	7	n/a	n/a	parameter_set_3
+ses-02	00150902T000000	3103	123	121	n/a	n/a	parameter_set_3
+ses-03	00151003T000000	3103	124	123	n/a	n/a	parameter_set_3
+ses-04	00160403T000000	3103	125	125	n/a	n/a	parameter_set_3
+ses-05	00160504T000000	3103	126	127	n/a	n/a	parameter_set_3
+ses-06	00161202T000000	3103	127	129	n/a	n/a	parameter_set_3
+ses-07	00170603T000000	3103	128	266	n/a	n/a	parameter_set_3
